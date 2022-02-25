@@ -19,6 +19,6 @@ I paint and I make things. 
 
 
 <p align="middle">
-  <img src="http://192.168.23.55:4000/images/logo.png" width="350" />
-  <img src="http://192.168.23.55:4000/images/me.jpg" width="350" /> 
+  <img src="https://johnnyadora.github.io/images/logo.png" width="350" />
+  <img src="https://johnnyadora.github.io/images/me.jpg" width="350" /> 
 </p>
