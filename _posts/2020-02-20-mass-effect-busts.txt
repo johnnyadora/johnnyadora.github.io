@@ -7,10 +7,7 @@ img: mass-effect-busts1.JPG
 tags: 
 - 3D Prints
 - Painted
-categories: 
-- 3D Prints
-- Painted
-color: 053259
+color: 0bccdd
 author: Johnny Adora
 ---
 
