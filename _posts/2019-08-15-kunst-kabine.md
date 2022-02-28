@@ -3,11 +3,11 @@ layout: post
 title:  "Kunst Kabine"
 description: 
 date:   2019-08-15 20:51:47 +0100
-img: kunstcabine0.jpg
+img: kunstcabine10.jpg
 tags: 
 - Exhibitions
 - Painted
-color: f418c5
+color: d83620
 author: Johnny Adora
 ---
 
@@ -36,3 +36,6 @@ author: Johnny Adora
 ![]({{site.baseurl}}/images/kunstcabine9.jpg)
 
 ![]({{site.baseurl}}/images/kunstcabine10.jpg)
+
+![]({{site.baseurl}}/images/kunstcabine0.jpg)
+

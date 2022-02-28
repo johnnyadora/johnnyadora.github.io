@@ -15,7 +15,7 @@ author: Johnny Adora
 
 ![]({{site.baseurl}}/images/origin2.jpg)
 
-![]({{site.baseurl}}/images/origin3.png)
+![]({{site.baseurl}}/images/origin3.jpg)
 
 ![]({{site.baseurl}}/images/origin4.jpg)
 
