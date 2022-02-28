@@ -3,19 +3,20 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
+<a id="top"></a>
 {% include head.html %}
 <body>
 <header>
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
-  {% include menu-links.html %}
 </div>
 
 <!-- Use any element to open the sidenav -->
-<span id="slid" onclick="openNav()"><i class="fa fa-align-left" aria-hidden="true"></i></span>
-<a href="{{site.baseurl}}/"><h1 class="header-title">{{site.title}}<i class="fa fa-paint-brush" aria-hidden="true"></i> </h1></a>
+<span id="slid" onclick="topFunction()"><a href="#top"><i class="fa fa-arrow-up" style="color:#11929b" aria-hidden="true"></i></span>
+<a href="{{site.baseurl}}/"><h1 class="header-title">{{site.title}}<i class="fa fa-paint-brush" style="color:#11929b" aria-hidden="true"></i> </h1></a>
 <h2 class="header-tagline">I paint and I make things</h2>
+<br>
+  <h2><a href="{{site.baseurl}}/">Home&nbsp;&nbsp;&nbsp;</a>  <a href="{{site.baseurl}}/about/">About me&nbsp;&nbsp;&nbsp;</a>  <a href="{{site.baseurl}}/portfolio/">Portfolio</a></h3>
 </header>
 <div id="main">
 
