@@ -1,3 +1,4 @@
+The theme this website uses, [Karna](https://github.com/sharu725/karna), was created by webjeda and is licensed under the MIT license:
 # The MIT License (MIT)
 Copyright (c) 2016 webjeda
 
