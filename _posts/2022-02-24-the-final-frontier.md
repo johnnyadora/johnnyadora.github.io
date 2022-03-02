@@ -2,7 +2,7 @@
 layout: post
 title:  "The final Frontier"
 description: Star trek themed bathroom
-date:   2022-02-24 10:51:47 +0530
+date:   2022-02-24 10:51:47 +0100
 img: IMG_20190328_105008288.jpg
 tags: 
 - Murals

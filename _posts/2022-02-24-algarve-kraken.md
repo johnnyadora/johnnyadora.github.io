@@ -2,7 +2,7 @@
 layout: post
 title:  "Algarve Kraken"
 description: A kraken I painted in Algarve, Portugal
-date:   2022-02-24 10:51:47 +0530
+date:   2022-02-24 10:51:47 +0100
 img: algarve-kraken4.jpg
 tags: 
 - Murals

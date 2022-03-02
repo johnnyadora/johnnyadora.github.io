@@ -2,7 +2,7 @@
 layout: post
 title:  "Origin Series"
 description: 
-date:   2022-02-24 10:51:47 +0530
+date:   2022-02-24 10:51:47 +0100
 img: origin5.jpg
 tags: 
 - Cruisers
