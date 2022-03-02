@@ -1,0 +1,2 @@
+Copyright (c) 2022 Johnny Adora
+The posts, images and photos in this repository/website are licensed according to the terms and conditions of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See the file `LICENSE-CC BY-NC-ND.txt` for details.
