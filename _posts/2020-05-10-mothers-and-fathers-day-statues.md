@@ -3,7 +3,7 @@ layout: post
 title:  "Mother's and Father's Day statues"
 description: 3D printed statues
 date:   2020-05-10 17:45:47 +0100
-img: motherfatherdaystatue1.jpg
+img: thumb_motherfatherdaystatue1.webp
 tags: 
 - 3D Prints
 - Painted

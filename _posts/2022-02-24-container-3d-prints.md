@@ -3,7 +3,7 @@ layout: post
 title:  "3D printed container"
 description: 
 date:   2022-02-24 10:51:47 +0100
-img: conainer1.jpg
+img: thumb_conainer1.webp
 tags: 
 - 3D Prints
 color: 1976D2

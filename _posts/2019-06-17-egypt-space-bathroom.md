@@ -3,7 +3,7 @@ layout: post
 title:  "Egypt Space Bathroom"
 description: 
 date:   2019-06-17 10:51:47 +0100
-img: P1090465.jpg
+img: thumb_P1090465.webp
 tags: 
 - Murals
 - Painted

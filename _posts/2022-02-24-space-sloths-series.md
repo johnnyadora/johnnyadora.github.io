@@ -3,7 +3,7 @@ layout: post
 title:  "Space Sloths"
 description: 
 date:   2022-02-24 10:51:47 +0100
-img: spacesloths1.jpg
+img: thumb_spacesloths1.webp
 tags: 
 - Cruisers
 - Painted

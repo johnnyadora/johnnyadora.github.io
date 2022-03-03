@@ -3,7 +3,7 @@ layout: post
 title:  "Kunst Kabine"
 description: 
 date:   2019-08-15 20:51:47 +0100
-img: kunstcabine10.jpg
+img: thumb_kunstcabine10.webp
 tags: 
 - Exhibitions
 - Painted
