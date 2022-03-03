@@ -14,8 +14,11 @@ layout: default
             {% if page.categories %}
             {% else %}
             {% endif %}
+			{% if page.tags %}
 			Tags:
 		{% for tag in page.tags %}<a href="/tag/#{{ tag | slugify }}">{{tag}}{% if forloop.last == false %}, {% endif %}{% endfor %}</a>
-    </div>
+			{% else %}
+            {% endif %}
+	</div>
 	
 </div>
