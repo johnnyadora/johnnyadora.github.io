@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Compass Cruiser"
+title:  "Johnny Adora Cruiser N°20"
 description: 
 date:   2018-07-19 10:51:47 +0100
 img: thumb_johnnyadoracruiser1.webp
