@@ -13,6 +13,4 @@ author: Johnny Adora
 
 ![]({{site.baseurl}}/images/compasscruiser1.webp)
 
-![]({{site.baseurl}}/images/compasscruiser2.webp)
-
 ![]({{site.baseurl}}/images/flipbook-gallery-10.webp)
