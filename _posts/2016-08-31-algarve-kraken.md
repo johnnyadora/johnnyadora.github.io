@@ -18,3 +18,5 @@ author: Johnny Adora
 ![Kraken 3]({{site.baseurl}}/images/algarve-kraken3.jpeg)
 
 ![Kraken 4]({{site.baseurl}}/images/algarve-kraken4.jpg)
+
+![Kraken 4]({{site.baseurl}}/images/flipbook-gallery-11.webp)
