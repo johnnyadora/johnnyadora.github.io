@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lucky Joe Cruiser"
+title:  "Lucky Joe Cruiser N°13"
 description: 
 date:   2018-01-22 10:51:47 +0100
 img: thumb_LuckyJoe1.webp
