@@ -5,7 +5,7 @@ description: 3D printed and painted busts of Liara T'Soni and Tali'Zorah
 date:   2020-02-20 18:00:00 +0100
 img: thumb_mass-effect-busts1.webp
 tags: 
-- 3D Prints
+- 3D Printed
 - Painted
 color: 0bccdd
 author: Johnny Adora
