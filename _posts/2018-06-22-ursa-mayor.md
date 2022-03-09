@@ -17,3 +17,5 @@ author: Johnny Adora
 ![]({{site.baseurl}}/images/UrsaMayor3.webp)
 
 ![]({{site.baseurl}}/images/UrsaMayor4.webp)
+
+![]({{site.baseurl}}/images/flipbook-gallery-7a.webp)
