@@ -25,5 +25,3 @@ author: Johnny Adora
 ![]({{site.baseurl}}/images/P1090463.jpg)
 
 ![]({{site.baseurl}}/images/P1090452.jpg)
-
-![]({{site.baseurl}}/images/P1090442.jpg)
