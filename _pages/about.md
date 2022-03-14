@@ -2,6 +2,8 @@
 title: About
 layout: post
 permalink: /about/
+sitemap:
+  priority: '0.8'
 ---
 
 Hello, I'm Johnny Adora and this is my story:
