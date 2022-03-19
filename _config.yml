@@ -3,7 +3,6 @@ title: Johnny Adora
 description: I paint and I make things
 url: https://johnnyadora.com
 permalink: ':title/'
-
 markdown: kramdown
 #baseurl: "/karna"
 full-version: 
@@ -43,3 +42,4 @@ version: 0.1
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag
+    - jekyll-redirect-from
