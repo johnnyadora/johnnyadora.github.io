@@ -2,10 +2,7 @@
 title: About
 layout: post
 permalink: /about/
-sitemap:
-  priority: '0.8'
-sitemap:
-  lastmod: 2022-02-24
+last_modified_at: 2022-02-24
 ---
 
 Hello, I'm Johnny Adora and this is my story:

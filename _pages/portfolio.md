@@ -16,7 +16,6 @@ carousels:
     - image: /images/portfolio/flipbook-gallery-10.jpg
     - image: /images/portfolio/flipbook-gallery-11.jpg
     - image: /images/portfolio/flipbook-gallery-12.jpg
-sitemap:
-  lastmod: 2022-02-24
+last_modified_at: 2022-02-24
 ---
 
