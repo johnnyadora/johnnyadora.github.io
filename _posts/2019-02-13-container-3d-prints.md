@@ -2,7 +2,7 @@
 layout: post
 title:  "3D printed container"
 description: 
-date:   2022-02-24 10:51:47 +0100
+date:   2019-02-13 10:51:47 +0100
 img: thumb_conainer1.webp
 tags: 
 - 3Dprinted
