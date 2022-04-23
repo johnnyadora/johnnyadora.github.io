@@ -1,6 +1,6 @@
 ---
 title: DailyLife
-layout: tags
-permalink: /tags/dailylife/
+layout: dailylife
+permalink: /dailylife/
 ---
 
