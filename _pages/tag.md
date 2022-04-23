@@ -1,6 +1,6 @@
 ---
-title: Tags
+title: Archive
 layout: tag
-permalink: /tag/
+permalink: /archive/
 ---
 
