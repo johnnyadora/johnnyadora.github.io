@@ -1,6 +1,6 @@
 ---
-title: 3D Printed
+title: 3Dprinted
 layout: tags
-permalink: /tags/3d-printed/
+permalink: /tags/3dprinted/
 ---
 

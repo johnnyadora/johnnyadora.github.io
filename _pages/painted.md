@@ -1,6 +1,6 @@
 ---
-title: Painted
+title: Paintings
 layout: tags
-permalink: /tags/painted/
+permalink: /tags/paintings/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Life
+title: DailyLife
 layout: tags
-permalink: /tags/life/
+permalink: /tags/dailylife/
 ---
 
