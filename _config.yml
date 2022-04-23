@@ -1,6 +1,7 @@
 
 title: Johnny Adora
-description: I paint and I make things
+tagline: I paint and I make things
+description: This is my blog, I paint cruisers, murals and everything I get my hands on.
 url: https://johnnyadora.com
 permalink: ':title/'
 markdown: kramdown
