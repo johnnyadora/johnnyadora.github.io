@@ -6,7 +6,8 @@ date:   2019-08-15 20:51:47 +0100
 img: thumb_kunstcabine10.webp
 tags: 
 - Exhibitions
-- Painted
+- Cruisers
+- Paintings
 color: d83620
 author: Johnny Adora
 ---
