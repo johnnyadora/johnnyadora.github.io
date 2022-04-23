@@ -18,7 +18,7 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #11929b;
 $grey-color:       #828282;
-$highlight-color:  #eae311;
+$highlight-color:  #ea6111;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -53,7 +53,7 @@ $on-laptop:        1000px;
         "style",
         "custom",
         "menu",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "navbar"
 ;
-
 
