@@ -5,8 +5,7 @@ description: 3D printed statues
 date:   2020-05-10 17:45:47 +0100
 img: thumb_motherfatherdaystatue1.webp
 tags: 
-- 3D Printed
-- Painted
+- 3Dprinted
 color: 025b57
 author: Johnny Adora
 ---

@@ -6,7 +6,6 @@ date:   2018-05-31 10:51:47 +0100
 img: thumb_SpaceDrift1.webp
 tags: 
 - Cruisers
-- Painted
 color: 2a012b
 author: Johnny Adora
 ---

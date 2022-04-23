@@ -6,7 +6,6 @@ date:   2018-04-05 10:51:47 +0100
 img: thumb_DSCF9561.webp
 tags: 
 - Cruisers
-- Painted
 color: 875904
 author: Johnny Adora
 ---

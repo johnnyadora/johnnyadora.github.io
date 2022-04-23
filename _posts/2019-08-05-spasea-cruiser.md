@@ -6,7 +6,6 @@ date:   2019-08-05 10:51:47 +0100
 img: thumb_SpaSea1.webp
 tags: 
 - Cruisers
-- Painted
 color: 1D1B1E
 author: Johnny Adora
 ---

@@ -6,7 +6,6 @@ date:   2017-09-01 10:51:47 +0100
 img: thumb_drecamo1.webp
 tags: 
 - Cruisers
-- Painted
 color: 0dad0d
 author: Johnny Adora
 ---

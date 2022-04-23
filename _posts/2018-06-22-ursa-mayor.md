@@ -6,7 +6,6 @@ date:   2018-06-22 10:51:47 +0100
 img: thumb_UrsaMayor1.webp
 tags: 
 - Cruisers
-- Painted
 color: BB873C
 author: Johnny Adora
 ---

@@ -5,8 +5,7 @@ description:
 date:   2022-02-24 10:51:47 +0100
 img: thumb_conainer1.webp
 tags: 
-- 3D Printed
-- Painted
+- 3Dprinted
 color: 1976D2
 author: Johnny Adora
 ---

@@ -6,7 +6,6 @@ date:   2020-07-31 10:51:47 +0100
 img: thumb_junglemobile1.webp
 tags: 
 - Cruisers
-- Painted
 color: d13119
 author: Johnny Adora
 ---

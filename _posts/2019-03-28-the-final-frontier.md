@@ -6,7 +6,6 @@ date:   2019-03-28 10:53:47 +0100
 img: thumb_IMG_20190328_105008288.webp
 tags: 
 - Murals
-- Painted
 color: 053259
 author: Johnny Adora
 ---

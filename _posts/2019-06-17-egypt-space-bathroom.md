@@ -6,7 +6,6 @@ date:   2019-06-17 10:51:47 +0100
 img: thumb_P1090465.webp
 tags: 
 - Murals
-- Painted
 color: 9e7600
 author: Johnny Adora
 ---

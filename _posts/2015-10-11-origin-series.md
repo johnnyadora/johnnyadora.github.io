@@ -6,7 +6,6 @@ date:   2015-10-11 10:51:47 +0100
 img: thumb_origin1.webp
 tags: 
 - Cruisers
-- Painted
 color: 0c0200
 author: Johnny Adora
 ---

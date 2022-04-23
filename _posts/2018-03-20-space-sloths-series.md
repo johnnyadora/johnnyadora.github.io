@@ -6,7 +6,6 @@ date:   2018-03-20 10:51:47 +0100
 img: thumb_spacesloths1.webp
 tags: 
 - Cruisers
-- Painted
 color: 373d37
 author: Johnny Adora
 ---

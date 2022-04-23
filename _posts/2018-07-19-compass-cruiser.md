@@ -6,7 +6,6 @@ date:   2018-07-19 10:51:47 +0100
 img: thumb_compasscruiser1.webp
 tags: 
 - Cruisers
-- Painted
 color: 8e1c00
 author: Johnny Adora
 ---

@@ -6,7 +6,6 @@ date:   2016-08-31 10:51:47 +0100
 img: thumb_algarve-kraken4.webp
 tags: 
 - Murals
-- Painted
 color: 1f2a35
 author: Johnny Adora
 ---

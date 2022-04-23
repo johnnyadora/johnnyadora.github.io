@@ -6,7 +6,6 @@ date:   2018-03-13 10:51:47 +0100
 img: thumb_WelcometotheJungleMyFriend3.webp
 tags: 
 - Cruisers
-- Painted
 color: 3F863E
 author: Johnny Adora
 ---

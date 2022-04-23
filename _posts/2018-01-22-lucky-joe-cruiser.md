@@ -6,7 +6,6 @@ date:   2018-01-22 10:51:47 +0100
 img: thumb_LuckyJoe1.webp
 tags: 
 - Cruisers
-- Painted
 color: 4597A4
 author: Johnny Adora
 ---

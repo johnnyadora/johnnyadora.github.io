@@ -6,7 +6,6 @@ date:   2016-12-15 10:51:47 +0100
 img: thumb_mermaid1.webp
 tags: 
 - Cruisers
-- Painted
 color: 664308
 author: Johnny Adora
 ---
