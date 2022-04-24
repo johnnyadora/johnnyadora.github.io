@@ -8,6 +8,10 @@ tags:
 - Murals
 color: 346F8D
 author: Johnny Adora
+image:
+  path: thumb_PortugalPoolhouse11.webp
+  height: 300
+  width: 300
 ---
 For this mural I was asked to fill a 10x2.5m wall with a pool-themed painting. The biggest wall I decorated so far… lucky for me, it was in my favourite country: Portugal! I began around November of 2019 but was unable to finish because of the humid weather. I returned the next year in September to finish it. 
 
@@ -42,7 +46,7 @@ The perspective is starting to look nice. There’s some  water in the pool.
 
 ![]({{site.baseurl}}/images/PortugalPoolhouse08.webp)
 
-And we have diver, ready to make the leap. (But waiting for me to give her hair.)
+And we have the diver, ready to make the leap. (But waiting for me to give her hair.)
 
 ![]({{site.baseurl}}/images/PortugalPoolhouse09.webp)
 
