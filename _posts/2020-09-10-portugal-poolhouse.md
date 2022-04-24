@@ -9,7 +9,7 @@ tags:
 color: 346F8D
 author: Johnny Adora
 image:
-  path: /image/thumb_PortugalPoolhouse11.webp
+  path: /images/thumb_PortugalPoolhouse11.webp
   height: 300
   width: 300
 ---
