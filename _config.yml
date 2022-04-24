@@ -15,7 +15,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/thumb_octopussy.webp
+      image: /images/defaultog.webp
   
 #optimization
 #compress.html
