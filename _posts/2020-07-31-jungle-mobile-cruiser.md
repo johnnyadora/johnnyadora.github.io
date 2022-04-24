@@ -9,7 +9,7 @@ tags:
 color: d13119
 author: Johnny Adora
 image:
-  path: /images/
+  path: /images/thumb_junglemobile1.webp
   height: 600
   width: 600
 ---
