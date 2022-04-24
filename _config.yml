@@ -15,7 +15,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/defaultog.webp
+      image: /images/defaultOG.webp
   
 #optimization
 #compress.html
