@@ -8,6 +8,10 @@ tags:
 - Paintings
 color: 234F15
 author: Johnny Adora
+image:
+  path: /images/thumb_Philosoraptor.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/Philosoraptor.webp)

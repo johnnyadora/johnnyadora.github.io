@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: BB873C
 author: Johnny Adora
+image:
+  path: /images/thumb_UrsaMayor1.webp
+  height: 600
+  width: 600
 ---
 ![]({{site.baseurl}}/images/UrsaMayor1.webp)
 

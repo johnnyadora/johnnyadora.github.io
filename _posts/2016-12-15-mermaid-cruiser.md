@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 664308
 author: Johnny Adora
+image:
+  path: /images/thumb_mermaid1.webp
+  height: 600
+  width: 600
 ---
 ![]({{site.baseurl}}/images/mermaid1.webp)
 

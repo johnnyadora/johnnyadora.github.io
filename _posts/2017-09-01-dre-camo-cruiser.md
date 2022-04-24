@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 0dad0d
 author: Johnny Adora
+image:
+  path: /images/thumb_drecamo1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/drecamo1.webp)

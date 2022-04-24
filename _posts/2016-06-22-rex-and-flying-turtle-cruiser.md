@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 096401
 author: Johnny Adora
+image:
+  path: /images/thumb_T-RexAndFlyingTurtle1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/T-RexAndFlyingTurtle1.webp)

@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 2a012b
 author: Johnny Adora
+image:
+  path: /images/thumb_SpaceDrift1.webp
+  height: 600
+  width: 600
 ---
 ![]({{site.baseurl}}/images/SpaceDrift1.webp)
 

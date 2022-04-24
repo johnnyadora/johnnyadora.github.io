@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 1D1B1E
 author: Johnny Adora
+image:
+  path: /images/thumb_SpaSea1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/SpaSea1.webp)

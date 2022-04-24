@@ -8,6 +8,10 @@ tags:
 - 3Dprinted
 color: 1976D2
 author: Johnny Adora
+image:
+  path: /images/thumb_conainer1.webp
+  height: 600
+  width: 600
 ---
 
 ![Container 1]({{site.baseurl}}/images/conainer1.jpg)

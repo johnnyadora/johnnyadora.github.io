@@ -11,6 +11,11 @@ full-version:
 sass:
     style: compressed
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/thumb_octopussy.webp
   
 #optimization
 #compress.html

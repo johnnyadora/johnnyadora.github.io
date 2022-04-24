@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 282525
 author: Johnny Adora
+image:
+  path: /images/thumb_johnnyadoracruiser1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/johnnyadoracruiser1.webp)

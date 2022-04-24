@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 0c0200
 author: Johnny Adora
+image:
+  path: /images/thumb_origin1.webp
+  height: 600
+  width: 600
 ---
 Fishbone Smoking bear N°1
 ![]({{site.baseurl}}/images/origin1.webp)

@@ -8,6 +8,10 @@ tags:
 - Murals
 color: 9e7600
 author: Johnny Adora
+image:
+  path: /images/thumb_P1090465.webp
+  height: 600
+  width: 600
 ---
 ![]({{site.baseurl}}/images/P1090465.jpg)
 

@@ -8,6 +8,10 @@ tags:
 - Paintings
 color: 980001
 author: Johnny Adora
+image:
+  path: /images/thumb_NotMyCupOfTea.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/NotMyCupOfTea.webp)

@@ -8,6 +8,10 @@ tags:
 - Murals
 color: 1f2a35
 author: Johnny Adora
+image:
+  path: /images/thumb_algarve-kraken4.webp
+  height: 600
+  width: 600
 ---
 
 ![Kraken 1]({{site.baseurl}}/images/algarve-kraken1.jpeg)

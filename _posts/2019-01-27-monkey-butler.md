@@ -8,6 +8,10 @@ tags:
 - 3Dprinted
 color: C0422D
 author: Johnny Adora
+image:
+  path: /images/thumb_MonkeyButler5.webp
+  height: 600
+  width: 600
 ---
 Thingiverse links to [**model by scampbell**](https://www.thingiverse.com/thing:2768992).
 

@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 373d37
 author: Johnny Adora
+image:
+  path: /images/thumb_spacesloths1.webp
+  height: 600
+  width: 600
 ---
 N°16 Sloth kills Curiousity - Bad Motherfuckers on Mars
 ![]({{site.baseurl}}/images/spacesloths1.jpg)

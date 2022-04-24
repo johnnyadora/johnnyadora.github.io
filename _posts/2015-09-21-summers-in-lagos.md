@@ -7,6 +7,10 @@ img: thumb_AlgarveDaily07.webp
 dailylife: true
 color: 02639E
 author: Johnny Adora
+image:
+  path: /images/thumb_AlgarveDaily07.webp
+  height: 600
+  width: 600
 ---
 I started kitesurfing at the age of 14 and immediately fell in love with the sport. 
 It was a 3-minute walk to the beach so the surfclub was pretty much my second home. 

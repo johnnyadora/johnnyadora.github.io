@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 4597A4
 author: Johnny Adora
+image:
+  path: /images/thumb_LuckyJoe1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/LuckyJoe1.webp)

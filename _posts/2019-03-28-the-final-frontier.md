@@ -8,6 +8,10 @@ tags:
 - Murals
 color: 053259
 author: Johnny Adora
+image:
+  path: /images/thumb_IMG_20190328_105008288.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/IMG_20190328_105324773.jpg)

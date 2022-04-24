@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: d13119
 author: Johnny Adora
+image:
+  path: /images/
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/junglemobile1.webp)

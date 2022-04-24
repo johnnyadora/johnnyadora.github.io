@@ -3,6 +3,10 @@ title: About
 layout: post
 permalink: /about/
 last_modified_at: 2022-02-24
+image:
+  path: /images/thumb_me.webp
+  height: 600
+  width: 600
 ---
 
 Hello, I'm Johnny Adora and this is my story:

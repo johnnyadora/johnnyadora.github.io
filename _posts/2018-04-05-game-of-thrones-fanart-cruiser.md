@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 875904
 author: Johnny Adora
+image:
+  path: /images/thumb_DSCF9561.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/DSCF9554.webp)

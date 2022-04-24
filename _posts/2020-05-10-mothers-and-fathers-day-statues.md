@@ -9,9 +9,9 @@ tags:
 color: 025b57
 author: Johnny Adora
 image:
-  path: /images/thumb_motherfatherdaystatue1.jpg
-  height: 300
-  width: 300
+  path: /images/thumb_motherfatherdaystatue1.webp
+  height: 600
+  width: 600
 ---
 
 Thingiverse link to the [Mother's Day statue](https://www.thingiverse.com/thing:1541512) and the [Father's Day statue](https://www.thingiverse.com/thing:1617145)

@@ -10,6 +10,10 @@ tags:
 - Paintings
 color: d83620
 author: Johnny Adora
+image:
+  path: /images/thumb_kunstcabine10.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/kunstcabine1.jpg)

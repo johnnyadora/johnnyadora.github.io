@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 8e1c00
 author: Johnny Adora
+image:
+  path: /images/thumb_compasscruiser1.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/compasscruiser1.webp)

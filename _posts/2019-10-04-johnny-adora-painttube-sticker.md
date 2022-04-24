@@ -8,6 +8,10 @@ tags:
 - Drawings
 color: 181517
 author: Johnny Adora
+image:
+  path: /images/thumb_JohnnyAdoraPainttube.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/JohnnyAdoraPainttube.webp)

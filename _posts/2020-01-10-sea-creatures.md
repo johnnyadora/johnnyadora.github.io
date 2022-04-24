@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 9B5534
 author: Johnny Adora
+image:
+  path: /images/thumb_SeaCreatures8.webp
+  height: 600
+  width: 600
 ---
 ![]({{site.baseurl}}/images/SeaCreatures2.webp)
 

@@ -8,6 +8,10 @@ tags:
 - Cruisers
 color: 3F863E
 author: Johnny Adora
+image:
+  path: /images/thumb_WelcometotheJungleMyFriend3.webp
+  height: 600
+  width: 600
 ---
 
 ![]({{site.baseurl}}/images/WelcometotheJungleMyFriend1.webp)
