@@ -46,3 +46,11 @@ nav ul {
   .nav__submenu-item:hover {
     background: rgba(0, 0, 0, 0.1);
   }
+
+  .nav a.current {
+    display: block;
+    padding: 0 10px;
+    line-height: inherit;
+    cursor: pointer;
+    color: $highlight-color;
+  }
