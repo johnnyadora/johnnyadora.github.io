@@ -7,6 +7,8 @@ redirect_from:
 <div id="grid" data-columns class="cols">
     {% for post in site.posts %}
     {% if post.dailylife == true %}
+    {% elsif post.cruisers == true %}
+    {% elsif post.murals == true %}
     {% else %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
@@ -15,11 +17,11 @@ redirect_from:
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%d %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+             <div class="action">{{ post.date | date: '%d %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"> - <u> Click to see more</u></a></div>
         </div>   
     </div>
-   {% endif %}
-   {% endfor %}
+    {% endif %}
+    {% endfor %}
 
 </div>
 </div>

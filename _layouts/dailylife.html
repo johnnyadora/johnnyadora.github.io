@@ -12,8 +12,8 @@ layout: default
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%d %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
-        </div>   
+            <div class="action">{{ post.date | date: '%d %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"> - <u> Click to see more</u></a></div>
+         </div>   
     </div>
     {% else %}
    {% endif %}
