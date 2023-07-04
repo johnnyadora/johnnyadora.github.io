@@ -12,6 +12,7 @@ image:
   path: /images/thumb_algarve-kraken4.webp
   height: 600
   width: 600
+murals: true
 ---
 
 ![Kraken 1]({{site.baseurl}}/images/algarve-kraken1.jpeg)

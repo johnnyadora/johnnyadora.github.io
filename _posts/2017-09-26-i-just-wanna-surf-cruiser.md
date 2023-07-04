@@ -12,6 +12,7 @@ image:
   path: /images/thumb_IMG_20170926_120231672.webp
   height: 600
   width: 600
+cruisers: true
 ---
 
 ![]({{site.baseurl}}/images/Cruiser9.webp)

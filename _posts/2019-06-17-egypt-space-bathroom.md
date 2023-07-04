@@ -12,6 +12,7 @@ image:
   path: /images/thumb_P1090465.webp
   height: 600
   width: 600
+murals: true
 ---
 ![]({{site.baseurl}}/images/P1090465.jpg)
 

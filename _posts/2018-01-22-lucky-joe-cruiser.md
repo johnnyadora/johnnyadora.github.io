@@ -12,6 +12,7 @@ image:
   path: /images/thumb_LuckyJoe1.webp
   height: 600
   width: 600
+cruisers: true
 ---
 
 ![]({{site.baseurl}}/images/LuckyJoe1.webp)

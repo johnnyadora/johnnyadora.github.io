@@ -12,6 +12,7 @@ image:
   path: /images/thumb_SeaCreatures8.webp
   height: 600
   width: 600
+cruisers: true
 ---
 ![]({{site.baseurl}}/images/SeaCreatures2.webp)
 

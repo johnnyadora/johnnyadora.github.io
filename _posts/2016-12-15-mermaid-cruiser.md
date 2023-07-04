@@ -12,6 +12,7 @@ image:
   path: /images/thumb_mermaid1.webp
   height: 600
   width: 600
+cruisers: true
 ---
 ![]({{site.baseurl}}/images/mermaid1.webp)
 

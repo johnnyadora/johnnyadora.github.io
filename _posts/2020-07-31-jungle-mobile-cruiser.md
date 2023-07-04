@@ -12,6 +12,7 @@ image:
   path: /images/thumb_junglemobile1.webp
   height: 600
   width: 600
+cruisers: true
 ---
 
 ![]({{site.baseurl}}/images/junglemobile1.webp)

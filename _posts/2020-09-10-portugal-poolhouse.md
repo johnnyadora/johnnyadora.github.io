@@ -12,6 +12,7 @@ image:
   path: /images/thumb_PortugalPoolhouse11.webp
   height: 600
   width: 600
+murals: true
 ---
 
 For this mural I was asked to fill a 10x2.5m wall with a pool-themed painting. The biggest wall I decorated so far… lucky for me, it was in my favourite country: Portugal! I began around November of 2019 but was unable to finish because of the humid weather. I returned the next year in September to finish it. 

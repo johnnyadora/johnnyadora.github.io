@@ -12,6 +12,7 @@ image:
   path: /images/thumb_SpaSea1.webp
   height: 600
   width: 600
+cruisers: true
 ---
 
 ![]({{site.baseurl}}/images/SpaSea1.webp)

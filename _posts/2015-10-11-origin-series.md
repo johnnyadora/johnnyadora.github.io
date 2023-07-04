@@ -12,6 +12,7 @@ image:
   path: /images/thumb_origin1.webp
   height: 600
   width: 600
+cruisers: true
 ---
 Fishbone Smoking bear N°1
 ![]({{site.baseurl}}/images/origin1.webp)
