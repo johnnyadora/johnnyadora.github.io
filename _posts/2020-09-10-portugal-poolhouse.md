@@ -4,6 +4,7 @@ title:  "Portugal Poolhouse"
 description: 
 date:   2020-09-10 10:53:47 +0100
 img: thumb_PortugalPoolhouse11.webp
+description: A mural I painted for a poolhouse
 tags: 
 - Murals
 color: 346F8D
@@ -13,6 +14,7 @@ image:
   height: 600
   width: 600
 murals: true
+recent: true
 ---
 
 For this mural I was asked to fill a 10x2.5m wall with a pool-themed painting. The biggest wall I decorated so far… lucky for me, it was in my favourite country: Portugal! I began around November of 2019 but was unable to finish because of the humid weather. I returned the next year in September to finish it. 

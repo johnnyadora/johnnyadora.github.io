@@ -13,6 +13,7 @@ image:
   height: 600
   width: 600
 cruisers: true
+recent: true
 ---
 ![]({{site.baseurl}}/images/SeaCreatures2.webp)
 

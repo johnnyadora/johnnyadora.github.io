@@ -1,15 +1,28 @@
 ---
 layout: default
-redirect_from:
-   - /artwork
 ---
+<div class="page-container">
+   <div class="content">
+<h1>Hello</h1>
+I'm Johnny Adora and this is my story: Growing up by the Belgian seaside, I got into sports such as kitesurfing and skateboarding from a very young age, which gave me a passion for boards and their designs.
+<br><br>
+I started by painting on my first skateboard which I got when I was 11 years old.
+<br><br>
+Re-shaping it first, then re-painting it again and again. Eventually people's used boards started to find their way to me and that's how I got into recycling old skateboards into newly shaped, hand-painted, little works of art. Later I expanded my canvas to walls and entire rooms, the bigger the better. 
+<br><br>
+In brief, that's me, I paint and I make things.
+
+
+<p align="middle">
+   <img src="https://johnnyadora.github.io/images/logo.png" width="150" />
+   <img src="https://johnnyadora.github.io/images/me.jpg" width="150" /> 
+ </p>
+
 <div id="container">
+</div><center><h1>Recent posts</h1></center>
 <div id="grid" data-columns class="cols">
-    {% for post in site.posts %}
-    {% if post.dailylife == true %}
-    {% elsif post.cruisers == true %}
-    {% elsif post.murals == true %}
-    {% else %}
+   {% for post in site.posts %}
+    {% if post.recent == true %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
           <a href="{{post.url | prepend: site.baseurl}}"><img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
@@ -18,12 +31,13 @@ redirect_from:
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
              <div class="action">{{ post.date | date: '%d %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"> - <u> Click to see more</u></a></div>
-        </div>   
+        </div>
     </div>
     {% endif %}
     {% endfor %}
-
+   </div>
+   </div>
 </div>
 </div>
-
+</div>
 <script src="{{site.baseurl}}/js/salvattore.min.js"></script>

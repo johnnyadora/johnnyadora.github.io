@@ -12,6 +12,7 @@ image:
   path: /images/thumb_Philosoraptor.webp
   height: 600
   width: 600
+artwork: true
 ---
 
 ![]({{site.baseurl}}/images/Philosoraptor.webp)

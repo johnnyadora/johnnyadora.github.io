@@ -13,6 +13,7 @@ image:
   path: /images/thumb_OctopussyJohnnyStickerLOGO03.webp
   height: 600
   width: 600
+artwork: true
 ---
 ![]({{site.baseurl}}/images/OctopussyJohnnyStickerLOGO03.webp)
 

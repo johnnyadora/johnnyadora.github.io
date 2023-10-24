@@ -12,6 +12,8 @@ image:
   path: /images/thumb_mass-effect-busts1.webp
   height: 600
   width: 600
+artwork: true
+recent: true
 ---
 
 Thingiverse links to the [**Liara bust by chow_its_made**](https://www.thingiverse.com/thing:3102791) and the [**Tali model by SgtSiff**](https://www.thingiverse.com/thing:2037364).

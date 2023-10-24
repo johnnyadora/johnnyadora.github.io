@@ -4,6 +4,7 @@ title:  "Kunst Kabine"
 description: 
 date:   2019-08-15 20:51:47 +0100
 img: thumb_kunstcabine10.webp
+description: An exhibition I participated in with the theme of the beach, the sea and seafront cabines
 tags: 
 - Exhibitions
 - Cruisers
@@ -14,8 +15,10 @@ image:
   path: /images/thumb_kunstcabine10.webp
   height: 600
   width: 600
+artwork: true
+recent: true
 ---
-
+An exhibition I participated in with the theme of the beach, the sea and seafront cabines
 ![]({{site.baseurl}}/images/kunstcabine1.jpg)
 
 ![]({{site.baseurl}}/images/kunstcabine2.jpg)

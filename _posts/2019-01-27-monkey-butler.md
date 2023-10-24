@@ -12,6 +12,7 @@ image:
   path: /images/thumb_MonkeyButler5.webp
   height: 600
   width: 600
+artwork: true
 ---
 Thingiverse links to [**model by scampbell**](https://www.thingiverse.com/thing:2768992).
 
