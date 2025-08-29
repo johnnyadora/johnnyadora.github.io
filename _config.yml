@@ -1,8 +1,8 @@
 
-title: Johnny Adora
+title: JoAdora
 tagline: I paint and I make things
-description: This is my blog, I paint cruisers, murals and everything I get my hands on.
-url: https://johnnyadora.com
+description: This is my blog, I paint skateboards, murals and everything I get my hands on.
+url: https://joadora.com
 permalink: ':title/'
 markdown: kramdown
 #baseurl: "/karna"

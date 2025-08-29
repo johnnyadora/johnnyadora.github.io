@@ -1,6 +1,6 @@
 ---
-title: Cruisers
+title: skateboards
 layout: tags
-permalink: /tags/cruisers/
+permalink: /tags/skateboards/
 ---
 

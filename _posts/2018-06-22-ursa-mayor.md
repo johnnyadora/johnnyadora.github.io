@@ -5,14 +5,14 @@ description:
 date:   2018-06-22 10:51:47 +0100
 img: thumb_UrsaMayor1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: BB873C
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_UrsaMayor1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 ![]({{site.baseurl}}/images/UrsaMayor1.webp)
 

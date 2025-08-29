@@ -9,7 +9,7 @@ image:
   width: 600
 ---
 
-Hello, I'm Johnny Adora and this is my story:
+Hello, I'm JoAdora and this is my story:
 Growing up by the Belgian seaside, I got into sports such as kitesurfing and skateboarding from a very young age, which gave me a passion for boards and their designs.
 
 I started by painting on my first skateboard which I got when I was 11 years old.
@@ -22,6 +22,6 @@ In brief, that's me, I paint and I make things.
 
 
 <p align="middle">
-  <img src="https://johnnyadora.github.io/images/logo.png" width="350" />
-  <img src="https://johnnyadora.github.io/images/me.jpg" width="350" /> 
+  <img src="https://joadora.github.io/images/logo.png" width="350" />
+  <img src="https://joadora.github.io/images/me.jpg" width="350" /> 
 </p>

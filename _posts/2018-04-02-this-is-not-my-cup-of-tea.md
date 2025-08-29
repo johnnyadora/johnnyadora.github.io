@@ -7,7 +7,7 @@ img: thumb_NotMyCupOfTea.webp
 tags: 
 - Paintings
 color: 980001
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_NotMyCupOfTea.webp
   height: 600

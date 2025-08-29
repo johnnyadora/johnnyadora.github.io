@@ -7,7 +7,7 @@ img: thumb_MonkeyButler5.webp
 tags: 
 - 3Dprinted
 color: C0422D
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_MonkeyButler5.webp
   height: 600

@@ -5,14 +5,14 @@ description:
 date:   2019-08-05 10:51:47 +0100
 img: thumb_SpaSea1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 1D1B1E
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_SpaSea1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 
 ![]({{site.baseurl}}/images/SpaSea1.webp)

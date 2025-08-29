@@ -5,14 +5,10 @@ description:
 date:   2020-01-10 10:51:47 +0100
 img: thumb_SeaCreatures8.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 9B5534
-author: Johnny Adora
-image:
-  path: /images/thumb_SeaCreatures8.webp
-  height: 600
-  width: 600
-cruisers: true
+author: JoAdora
+skateboards: true
 recent: true
 ---
 ![]({{site.baseurl}}/images/SeaCreatures2.webp)

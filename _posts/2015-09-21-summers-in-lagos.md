@@ -6,7 +6,7 @@ date:   2015-09-21 10:51:47 +0100
 img: thumb_AlgarveDaily07.webp
 dailylife: true
 color: 02639E
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_AlgarveDaily07.webp
   height: 600

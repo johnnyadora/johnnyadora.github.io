@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Space Sloths Cruisers N°16 and N°17"
+title:  "Space Sloths skateboards N°16 and N°17"
 description: 
 date:   2018-03-20 10:51:47 +0100
 img: thumb_spacesloths1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 373d37
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_spacesloths1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 N°16 Sloth kills Curiousity - Bad Motherfuckers on Mars
 ![]({{site.baseurl}}/images/spacesloths1.jpg)

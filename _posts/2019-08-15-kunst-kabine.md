@@ -1,22 +1,21 @@
 ---
 layout: post
 title:  "Kunst Kabine"
-description: 
 date:   2019-08-15 20:51:47 +0100
 img: thumb_kunstcabine10.webp
 description: An exhibition I participated in with the theme of the beach, the sea and seafront cabines
 tags: 
 - Exhibitions
-- Cruisers
+- skateboards
 - Paintings
 color: d83620
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_kunstcabine10.webp
   height: 600
   width: 600
 artwork: true
-recent: true
+recent: false
 ---
 An exhibition I participated in with the theme of the beach, the sea and seafront cabines
 ![]({{site.baseurl}}/images/kunstcabine1.jpg)

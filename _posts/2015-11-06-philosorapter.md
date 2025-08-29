@@ -7,7 +7,7 @@ img: thumb_Philosoraptor.webp
 tags: 
 - Paintings
 color: 234F15
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_Philosoraptor.webp
   height: 600

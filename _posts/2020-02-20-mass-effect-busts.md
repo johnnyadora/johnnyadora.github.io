@@ -7,7 +7,7 @@ img: thumb_mass-effect-busts1.webp
 tags: 
 - 3Dprinted
 color: 0bccdd
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_mass-effect-busts1.webp
   height: 600

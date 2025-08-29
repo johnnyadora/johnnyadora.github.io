@@ -5,14 +5,14 @@ description:
 date:   2016-12-15 10:51:47 +0100
 img: thumb_mermaid1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 664308
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_mermaid1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 ![]({{site.baseurl}}/images/mermaid1.webp)
 

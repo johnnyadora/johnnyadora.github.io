@@ -7,7 +7,7 @@ img: thumb_motherfatherdaystatue1.webp
 tags: 
 - 3Dprinted
 color: 025b57
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_motherfatherdaystatue1.webp
   height: 600

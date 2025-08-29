@@ -5,14 +5,10 @@ description: A deck that can get wet to go from my van to the beach and back aga
 date:   2020-07-31 10:51:47 +0100
 img: thumb_junglemobile1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: d13119
-author: Johnny Adora
-image:
-  path: /images/thumb_junglemobile1.webp
-  height: 600
-  width: 600
-cruisers: true
+author: JoAdora
+skateboards: true
 ---
 
 ![]({{site.baseurl}}/images/junglemobile1.webp)

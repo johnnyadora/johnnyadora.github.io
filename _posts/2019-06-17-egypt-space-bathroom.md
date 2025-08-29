@@ -7,7 +7,7 @@ img: thumb_P1090465.webp
 tags: 
 - Murals
 color: 9e7600
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_P1090465.webp
   height: 600

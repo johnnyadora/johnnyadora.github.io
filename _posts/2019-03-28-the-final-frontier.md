@@ -7,7 +7,7 @@ img: thumb_IMG_20190328_105008288.webp
 tags: 
 - Murals
 color: 053259
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_IMG_20190328_105008288.webp
   height: 600

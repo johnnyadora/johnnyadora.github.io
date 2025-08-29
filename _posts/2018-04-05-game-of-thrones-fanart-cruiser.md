@@ -5,14 +5,14 @@ description:
 date:   2018-04-05 10:51:47 +0100
 img: thumb_DSCF9561.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 875904
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_DSCF9561.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 
 ![]({{site.baseurl}}/images/DSCF9554.webp)

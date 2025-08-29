@@ -5,14 +5,14 @@ description:
 date:   2018-05-31 10:51:47 +0100
 img: thumb_SpaceDrift1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 2a012b
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_SpaceDrift1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 ![]({{site.baseurl}}/images/SpaceDrift1.webp)
 

@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Portugal Poolhouse"
-description: 
 date:   2020-09-10 10:53:47 +0100
 img: thumb_PortugalPoolhouse11.webp
 description: A mural I painted for a poolhouse
 tags: 
 - Murals
 color: 346F8D
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_PortugalPoolhouse11.webp
   height: 600

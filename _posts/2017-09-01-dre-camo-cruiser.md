@@ -5,14 +5,14 @@ description:
 date:   2017-09-01 10:51:47 +0100
 img: thumb_drecamo1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 0dad0d
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_drecamo1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 
 ![]({{site.baseurl}}/images/drecamo1.webp)

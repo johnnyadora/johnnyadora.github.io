@@ -7,7 +7,7 @@ img: thumb_conainer1.webp
 tags: 
 - 3Dprinted
 color: 1976D2
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_conainer1.webp
   height: 600

@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Origin Cruisers N°1 and N°2"
+title:  "Origin skateboards N°1 and N°2"
 description: 
 date:   2015-10-11 10:51:47 +0100
 img: thumb_origin1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 0c0200
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_origin1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 Fishbone Smoking bear N°1
 ![]({{site.baseurl}}/images/origin1.webp)

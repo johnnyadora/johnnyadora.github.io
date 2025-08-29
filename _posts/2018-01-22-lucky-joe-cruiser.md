@@ -5,14 +5,14 @@ description:
 date:   2018-01-22 10:51:47 +0100
 img: thumb_LuckyJoe1.webp
 tags: 
-- Cruisers
+- Skateboards
 color: 4597A4
-author: Johnny Adora
+author: JoAdora
 image:
   path: /images/thumb_LuckyJoe1.webp
   height: 600
   width: 600
-cruisers: true
+skateboards: true
 ---
 
 ![]({{site.baseurl}}/images/LuckyJoe1.webp)
